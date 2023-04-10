@@ -11,5 +11,5 @@ Education portfolio
            
         
 #### Курс "Аналитик данных" в Praktikum.Yandex 
-![Praktikum.Yandex](https://disk.yandex.ru/i/C0mihEc6oRQ8gQ)
+[Praktikum.Yandex](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/adba5ea8b47219600b9678b4c08c236f19295c05/Yandex_moseeva.pdf)
 
