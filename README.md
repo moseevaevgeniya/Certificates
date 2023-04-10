@@ -6,7 +6,7 @@ Education portfolio
 
 #### Курс "Симулятор аналитика" в Karpov.courses  
 
-<img src ="https://user-images.githubusercontent.com/moseevaevgeniya/Evgeniya-Moseeva/blob/79e497ae6345b0707b57e273f776134c5aa0191d/Karpov_moseeva.pdf>
+[Карпов](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/e76e62bec5be965f73175fbfb3a52a8e76e47592/Karpov_moseeva.pdf)
            
            
            
