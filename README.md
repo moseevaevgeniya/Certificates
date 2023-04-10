@@ -6,14 +6,10 @@ Education portfolio
 
 #### Курс "Симулятор аналитика" в Karpov.courses  
 
-[Карпов](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/e76e62bec5be965f73175fbfb3a52a8e76e47592/Karpov_moseeva.pdf)
+[Karpov.courses](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/e76e62bec5be965f73175fbfb3a52a8e76e47592/Karpov_moseeva.pdf)
+                   
            
-           
-           
-           
-           
-           
-           
+        
 #### Курс "Аналитик данных" в Praktikum.Yandex 
-![Yandex_moseeva](https://disk.yandex.ru/i/C0mihEc6oRQ8gQ)
+![Praktikum.Yandex](https://disk.yandex.ru/i/C0mihEc6oRQ8gQ)
 
