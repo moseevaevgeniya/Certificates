@@ -5,8 +5,8 @@ Education portfolio
 Для получения углублённых знаний по аналитике данных, я прошла несколько онлайн курсов.
 
 #### Курс "Симулятор аналитика" в Karpov.courses  
-![Karpov_moseeva](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/79e497ae6345b0707b57e273f776134c5aa0191d/Karpov_moseeva.pdf)
+![Karpov_moseeva](https://user-images.githubusercontent.com/moseevaevgeniya/Evgeniya-Moseeva/blob/79e497ae6345b0707b57e273f776134c5aa0191d/Karpov_moseeva.pdf)
 
 #### Курс "Аналитик данных" в Praktikum.Yandex 
-![Yandex_moseeva](https://github.com/moseevaevgeniya/Evgeniya-Moseeva/blob/b03d00e4dadbe5376b89e119ecc65b1871dc6e63/Yandex_moseeva.pdf)
+![Yandex_moseeva](https://disk.yandex.ru/i/C0mihEc6oRQ8gQ)
 
